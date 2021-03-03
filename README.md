@@ -7,5 +7,3 @@ Flutter apps are written using the Dart programming language, also originally fr
 
 Here, I'm going to know more about flutter and implement the widgets, also dart language.
 
-Soucre tutorial : 
-https://www.raywenderlich.com/4529993-getting-started-with-flutter
